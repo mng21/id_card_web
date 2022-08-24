@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+       
+}
+
+
+.bg_1{
+    background-color: #FAA8DB;
+}
+
+.img{
+    width:250px;
+    height:250px
+}
+
+
+.bg_2{
+    background-image: linear-gradient(to bottom, #faa8db, #eca9d8, #deaad3, #d1aacd, #c5aac6, #b7a8c2, #aba5bb, #a1a2b3, #949ca9, #8a969e, #848f92, #808787); ; 
+}
+
+.contenedor_1{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-family: 'Inspiration', cursive;
+  font-size: 80px;
+}
+
+.contenedor_2{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 30px;
+  }
+
+  .texto_1{
+    justify-content: center;
+    
+  }
+.nombre{
+    font-family: 'Inspiration', cursive;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+
+
